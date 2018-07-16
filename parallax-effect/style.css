@@ -1,0 +1,200 @@
+.container      {
+                    width: 660px;
+                    background: #ffffff;
+                    margin-left: -8px;
+                }
+.addr           {
+                    width:660px;
+                    font-family: sans-serif;
+                    font-size: 9px;
+                    margin-top: 20px;
+                    margin-left: 100px;
+                }
+.hd             {   
+                    margin-top: -35px;
+                    width:660px;
+                    font-family: sans-serif;
+                    font-size: 30px;
+                    color:#bc9b5d;
+                    text-align: center;
+                }
+.tab            {
+                    width:660px;   
+                }
+.tab ul         {
+                    list-style:none;    
+                }
+.tab ul li a    {
+                    text-decoration:none;
+                    float: left;
+                    margin-left: 30px;
+                    margin-right:45px;
+                    margin-top: -5px;
+                    font-family:sans-serif;
+                    font-size: 10px;
+                    color: black;
+                }
+.hr             {       
+                    margin-left:-8px;
+                    width:660px;
+                    color: #dbdbdb;
+                }
+.crop           {
+                    width: 660px;
+                    text-indent: -200px; /* Left and right side equally */
+                    height:450px;
+                    margin-left: -8px;
+                    overflow:hidden; /*crops off*/
+                    position: fixed;
+                }
+.crop2          {
+                    background-origin: border-box;
+                    background: url("http://cs-server.usc.edu:45678/hw/hw3/images/image6.jpg") no-repeat;
+                    background-attachment: fixed;
+                    width: 660px;
+                    height:330px;
+                    background-position: center;
+                    margin-left:-8px;
+                    float: left;
+                /*overflow:hidden;*/
+                /*margin:auto;*/
+                }
+.bgimg2         {
+                    background: url("http://cs-server.usc.edu:45678/hw/hw3/images/image5.jpg") no-repeat;
+                    background-attachment: fixed;
+                    background-size:660px;
+                    width: 660px;
+                    height:330px;
+                    margin-left: -8px;
+                }
+.right          {
+                    float: left;
+                    width:250px;
+                    margin-left: 70px;
+                    margin-top: 35px;
+                }
+.right img      {
+                    width:250px;
+                    height: auto;
+                    margin-top: 15px;
+                }
+.right h3       {
+                    font-family: serif;
+                    color: #bc9b5d;
+                    font-style: italic;
+                }
+.right p        {
+                    font-family: sans-serif;
+                    font-size: 10px;
+                    margin-top: -10px;
+                }
+.right a        {
+                    text-decoration:none;  
+                    font-family:sans-serif;
+                    font-size: 10px;
+                    color: black;
+                }
+.right a:hover  {
+                    color:#c7c6c4;;
+                }
+.left           {
+                    float: right;
+                    width:250px;
+                    margin-top: 5px;
+                    margin-right:73px;
+                }
+.left a:hover  {
+                    color:#c7c6c4;;
+                }
+.left img       {
+                    width:250px;
+                    height: auto;
+                    margin-top: 15px;
+                }
+.left h3        {
+                    font-family: serif;
+                    color: #bc9b5d;
+                    font-style: italic; 
+                    margin-top: -1px;
+                    margin-bottom: -5px;
+                }
+.left span      {
+                    font-family: sans-serif;
+                    font-size: 8px;
+                }
+.left p         {
+                    font-family: sans-serif;
+                    font-size: 10px;
+                }
+.left a         {
+                    text-decoration:none;  
+                    font-family:sans-serif;
+                    font-size: 10px;
+                    color: black;
+                }
+.bottom         {
+                    width:517px;
+                    margin-left:70px;
+                    text-align: center;
+                }
+.bottom img     {
+                    text-align: center;
+                    width:517px;
+                    height: auto;
+                    margin-top: 15px;
+                }
+.bottom span    {   
+                    margin-top: 200px;
+                    font-family: sans-serif;
+                    font-size: 10px; 
+                }
+.bottom span a  {
+                    text-decoration: none;
+                    color: black;
+                }
+.bottom span a:hover    {
+                            color:#c7c6c4; 
+                        }
+.bottom h3      {
+                    margin-top: -1px;
+                    font-family: serif;
+                    color: #bc9b5d;
+                    font-style: italic;
+                }
+.img-wrapper    {
+                    float:left;
+                    width:517px;
+                }
+.txt-wrapper   {
+                    background-color: #ffffff;
+                    position: relative;
+                    margin-top: -200px;
+                    margin-bottom: 140px;
+                    margin-left: 25%;
+                    width: 250px;
+                    height: 70px;
+                }
+.txt  p         {
+                    position: relative;
+                    margin-top: -190px;
+                    margin-bottom: 150px;
+                    font-family: sans-serif;
+                    font-size: 6px;
+                }
+.txt span       {
+                    font-family: serif;
+                    font-size: 20px;
+                }
+.footer         {
+                    background-color: #bc9b5d;
+                    height: 130px;
+                    width:652px;
+                }
+.l1             {
+                    position: relative;
+                    font-family: sans-serif;
+                    font-size: 8px;
+                    margin-left: 430px;
+                    margin-top: -100px;
+                    color: #ffffff;
+                }
